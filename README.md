@@ -1,4 +1,4 @@
-<div align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <h1>👋 Hi, I'm Hariteja</h1>
   <p>
     💻 MERN Stack Developer | Passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through clean, scalable code and continuous learning.
