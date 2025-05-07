@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hariteja
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari-1005&label=Profile%20views&color=0e75b6&style=flat" alt="Hari-1005" /> </p>
 ## 🚀 About Me
 I'm a passionate developer exploring open source, web technologies, and building cool projects!
 
