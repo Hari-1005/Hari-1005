@@ -1,10 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>👋 Hi, I'm Hariteja</h1>
-  <p>
-    💻 MERN Stack Developer | Passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through clean, scalable code and continuous learning.
-  </p>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div>
+    <h1>👋 Hi, I'm Hariteja</h1>
+    <p>
+      💻 MERN Stack Developer | Passionate about building full-stack web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through clean, scalable code and continuous learning.
+    </p>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=Hari-1005&label=Profile%20views&color=0e75b6&style=flat" alt="Hari-1005" />
 </div>
+
 
 ## 🚀 About Me
 I'm a passionate developer exploring open source, web technologies, and building cool projects!
