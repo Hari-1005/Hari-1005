@@ -23,13 +23,13 @@ I'm a passionate developer exploring open source, web technologies, and building
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hari-1005&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub&no-bg=true)
+![Achievements](https://github-profile-trophy.vercel.app/?username=Hari-1005&theme=darkhub&no-bg=true)
 
 ---
 
