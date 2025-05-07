@@ -13,10 +13,9 @@
 I'm a passionate developer exploring open source, web technologies, and building cool projects!
 
 - 🌱 I’m currently learning: [e.g., Next.js, TypeScript, AWS]
-- 🔭 I’m working on: [Your project or area of focus]
+- 🔭 I’m working on: [Cybersecurity]
 - 💬 Ask me about: Web dev, GitHub, or anything tech!
-- 📫 How to reach me: [email or social media link]
-- ⚡ Fun fact: I love [something unique or fun about you]
+- ⚡ Fun fact: I love to be techie..!!
 
 ---
 
